@@ -168,7 +168,7 @@ h1{
 
 @media(max-width:600px){
     button{
-      width: 50px;
+      width: 200px;
        gap: 0.5%;
     }
   
@@ -177,7 +177,7 @@ h1{
     }
     
     .custoshabilidades{
-     gap: 1%;
+     gap: 0px;
      
 }
     
