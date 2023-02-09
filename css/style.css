@@ -166,7 +166,7 @@ h1{
     color: white;
 }
 
-@media(max-width:600px){
+@media(max-width:500px){
     button{
       width: 20px;
        gap: 0.5%;
