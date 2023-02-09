@@ -167,7 +167,7 @@ h1{
 }
 
 @media(max-width:600px){
-    .button{
+    button{
       width: 30px;
        gap: 0.5%;
     }
