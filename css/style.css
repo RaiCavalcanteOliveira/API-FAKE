@@ -175,5 +175,11 @@ h1{
     .botoes{
       gap: 0.5%;
     }
+    
+    .custoshabilidades{
+     gap: 25%;
+     
+}
+    
   }
 
