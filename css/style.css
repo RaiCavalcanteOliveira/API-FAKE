@@ -168,16 +168,16 @@ h1{
 
 @media(max-width:600px){
     button{
-      width: 30px;
+      width: 50px;
        gap: 0.5%;
     }
   
     .botoes{
-      gap: 0.5%;
+      gap: 1%;
     }
     
     .custoshabilidades{
-     gap: 2%;
+     gap: 1%;
      
 }
     
