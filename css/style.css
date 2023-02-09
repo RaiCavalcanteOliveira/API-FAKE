@@ -166,20 +166,17 @@ h1{
     color: white;
 }
 
-@media(max-width:500px){
-    button{
+@media(max-width:600px){
+  .button{
+    width: 30px;
+     gap: 0.5%;
+  }
+
+  .botoes{
+    gap: 0.5%;
    
-       gap: 0.5%;
-    }
-  
-    .botoes{
-      gap: 0.5%;
-    }
-    
-    .custoshabilidades{
-     gap: 10%;
-     
+  }
 }
     
-  }
+  
 
